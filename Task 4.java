@@ -11,9 +11,9 @@ class Node
     }
     
     // 
-    public void getData(){
+    public void getref(){
         
-        System.out.println(data);
+        System.out.println(Next);
         
     }
 }
